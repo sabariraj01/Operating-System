@@ -1,1 +1,1 @@
-Bash codes | CPU Scheduling codes | Disk Scheduling codes 
+Script codes | CPU Scheduling codes | Disk Scheduling codes 
